@@ -1,0 +1,93 @@
+[
+  {
+    "country": "India",
+    "state": [
+      {
+        "statename": "Tamil Nadu",
+        "district": [
+          {
+            "name": "Chennai",
+            "value": "india-tamil nadu-chennai"
+          },
+          {
+            "name": "Madurai",
+            "value": "india-tamil nadu-madurai"
+          },
+          {
+            "name": "Coimbatore",
+            "value": "india-tamil nadu-coimbatore"
+          },
+          {
+            "name": "Tanjore",
+            "value": "india-tamil nadu-tanjore"
+          }
+        ]
+      },
+      {
+        "statename": "Karnataka",
+        "district": [
+          {
+            "name": "Bangalore",
+            "value": "india-karnataka-bangalore"
+          },
+          {
+            "name": "Mangalore",
+            "value": "india-karnataka-mangalore"
+          },
+          {
+            "name": "Mysore",
+            "value": "india-karnataka-mysore"
+          }
+        ]
+      },
+      {
+        "statename": "Maharashtra",
+        "district": [
+          {
+            "name": "Mumbai",
+            "value": "india-maharashtra-mumbai"
+          },
+          {
+            "name": "Nagpur",
+            "value": "india-maharashtra-nagpur"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "USA",
+    "state": [
+      {
+        "statename": "New York",
+        "district": [
+          {
+            "name": "New York City",
+            "value": "usa-new york-new york city"
+          },
+          {
+            "name": "Hudson Valley",
+            "value": "usa-new york-hudson valley"
+          },
+          {
+            "name": "Long Island",
+            "value": "usa-new york-long island"
+          }
+        ]
+      },
+      {
+        "statename": "New Jersy",
+        "district": [
+          {
+            "name": "Vernon Township",
+            "value": "usa-new york-vernon township"
+          },
+          {
+            "name": "Hopewell Township",
+            "value": "usa-new york-hopewell township"
+          }
+        ]
+      }
+    ]
+  }
+]
